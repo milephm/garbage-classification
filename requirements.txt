@@ -1,0 +1,11 @@
+IPython
+Pillow
+ipywidgets
+kagglehub
+keras
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
