@@ -9,14 +9,15 @@ This project implement a computer vision system based on the Xception architectu
 Link: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 ## Folder Structure
-- **`intro-to-ai-garbage-classification.ipynb`** : code to run locally (note to change path as noted in comments)
-- **`group-12-garbage-classification.ipynb`** : code with output to view (pre-trained)
+- **`main.ipynb`** : main code to run for testing performance
+- **`group-12-garbage-classification.ipynb`** : with output to view (pre-trained)
 - **`garbage-classification-self.ipynb`** : self-trained model to classify garbage
 - **`requirements.txt`** : requirements file to run this code
 
 ## Installation Guide
 There are several ways of running this either through the .ipynb code in this repository or through the kaggle link provided below (you might have to wait a bit long)
-- **Kaggle link: https://www.kaggle.com/code/hienminhpham/notebookb342e62729**
+- **Kaggle link for pre-trained: https://www.kaggle.com/code/hienminhpham/notebookb342e62729**
+- **Kaggle link for self-trained: https://www.kaggle.com/code/lilearn004205/garbage-classification-t-u**
 
 ### 1. General Requirements
 - Python 3.8 or later  
@@ -32,11 +33,11 @@ There are several ways of running this either through the .ipynb code in this re
    ```bash
    pip3 install -r requirements.txt
    ```
-2. Open the **`intro-to-ai-garbage-classification.ipynb`** file in Jupyter Notebook or Google Colab.  
+2. Open the **`main.ipynb`** file in Jupyter Notebook or Google Colab.  
 3. Click **Run All** to execute the code.
 
 ## Credits
-README.md format credit to tmp0810
+README.md format: credit to tmp0810
 
 ## Contact & Contribution
 For questions or contributions, please feel free to reach out via GitHub or submit a pull request.  
