@@ -10,7 +10,8 @@ Link: https://www.kaggle.com/datasets/mostafaabla/garbage-classification
 
 ## Folder Structure
 - **`intro-to-ai-garbage-classification.ipynb`** : code to run locally (note to change path as noted in comments)
-- **`group-12-garbage-classification.ipynb`** : code with output to view
+- **`group-12-garbage-classification.ipynb`** : code with output to view (pre-trained)
+- **`garbage-classification-self.ipynb`** : self-trained model to classify garbage
 - **`requirements.txt`** : requirements file to run this code
 
 ## Installation Guide
